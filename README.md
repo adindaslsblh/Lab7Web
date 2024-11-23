@@ -8,7 +8,7 @@ Untuk memudahkan proses program PHP, menggunakan aplikasi bundle web server yait
 
 Unduh XAMPP dari https://www.apachefriends.org/download.html dan pilih versi portable untuk memudahkan proses installasi.
 ![gambar](https://github.com/user-attachments/assets/c9ef22e9-ca7f-41a7-80ec-7a791f56eba5)
-Kemudian extract file tersebut, seusaikan direktorinya (misal: c:\xampp).
+Kemudian extract file tersebut, seusaikan direktorinya (misal: c:\xampp2).
 ![179](https://github.com/user-attachments/assets/6c53db89-1f29-4ed7-9e7f-85e7191769d5)
 - Menjalankan Web Server
 
@@ -23,7 +23,7 @@ Direktori: \xampp\mysql\
 (Manajemen database: http://localhost/phpmyadmin)
 - Memulai PHP
 
-Buat folder lab7_php_dasar pada root directory web server (c:\xampp\htdocs)
+Buat folder lab7_php_dasar pada root directory web server (c:\xampp2\htdocs)
 ![181](https://github.com/user-attachments/assets/d488c443-e36c-4ce8-93f9-427c6254adbb)
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
 ![182](https://github.com/user-attachments/assets/eb448db0-1d07-4f4a-ba21-8a70b037f794)
